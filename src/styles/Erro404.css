@@ -1,0 +1,32 @@
+.pagina-404 {
+    margin: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+}
+.erro-404 {
+    max-width: 650px;
+    padding: 20px;
+}
+.erro-404 h1 {
+    margin: 10px;
+}
+.botao-voltar {
+    display: inline-block; 
+    margin-top: 20px;    
+    background-color: #000000;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;    
+    border-radius: 5px;
+    border: 1px solid #000000; 
+    transition: background-color 0.2s, color 0.2s; 
+}
+.botao-voltar:hover {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
